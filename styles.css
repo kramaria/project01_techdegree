@@ -197,10 +197,7 @@ a.social:hover {
 
 }
 
-.billing-analyst li {
-  padding-bottom: 16px;
-}
-
+.billing-analyst li,
 .administrative-assistant li {
   padding-bottom: 16px;
 }
